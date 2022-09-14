@@ -4,9 +4,9 @@
 # In[1]:
 
 
-get_ipython().run_line_magic('pip', 'install -q gradio')
-get_ipython().run_line_magic('pip', 'install fastbook')
-get_ipython().run_line_magic('pip', 'install -Uqq fastai')
+#get_ipython().run_line_magic('pip', 'install -q gradio')
+#get_ipython().run_line_magic('pip', 'install fastbook')
+#get_ipython().run_line_magic('pip', 'install -Uqq fastai')
 
 
 # In[2]:
