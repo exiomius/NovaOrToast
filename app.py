@@ -34,9 +34,9 @@ import gradio as gr
 # In[5]:
 
 
-import pathlib
-temp = pathlib.PosixPath
-pathlib.PosixPath = pathlib.WindowsPath
+#import pathlib
+#temp = pathlib.PosixPath
+#pathlib.PosixPath = pathlib.WindowsPath
 
 
 # In[8]:
